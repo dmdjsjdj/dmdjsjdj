@@ -2,6 +2,5 @@
   <img
     src="https://render.gitanimals.org/farms/dmdjsjdj"
     width="600"
-    style="background=blue"
   />
 </a>
