@@ -1,55 +1,159 @@
-# Son Yejin
+<div align="center">
 
-### 실전형 풀스택 개발자
+<img src="https://capsule-render.vercel.app/api?type=waving&color=687EFF&height=180&section=header&text=SON%20YEJIN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-**기능을 넘어, 서비스의 흐름을 이해하는 개발자**
+# 실전형 풀스택 개발자
 
-Java · Spring Boot를 기반으로 백엔드를 개발하고 React를 활용해 프론트엔드까지 연결하며,
-웹 서비스의 전체 흐름을 이해하고 구현하는 개발자를 목표로 하고 있습니다.
+### 기능을 넘어, 서비스의 흐름을 이해하는 개발자
 
-학습 과정에서 Spring 기반 프로젝트를 시작해 Spring Boot + React 구조로 발전시키며
-**MOIT 모임 플랫폼을 1차부터 3차까지 단계적으로 개발**했습니다.
-* [GitHub](https://github.com/dmdjsjdj/2026-AI-FULLSTACK-YJ)
-* [GitHub.io](https://dmdjsjdj.github.io/2026-AI-FULLSTACK-YJ/)
+Java · Spring Boot를 기반으로 백엔드를 개발하고  
+React를 활용해 프론트엔드까지 연결합니다.
 
----
-
-## Projects
-
-### MOIT
-
-대학생 및 일반 사용자를 위한 **모임 커뮤니티 플랫폼**
-
-Spring Framework 기반의 1차 프로젝트에서 시작해
-Spring Boot와 React를 적용한 3차 프로젝트까지 단계적으로 발전시켰습니다.
-
-**MOIT v3에서는 광고 기능을 담당하여 광고 등록부터 관리자 승인, 결제, 노출, 통계까지 구현했습니다.**
-
-* [프로젝트 GitHub](https://github.com/dmdjsjdj/2026-moit-projects)
-* [프로젝트 배포](https://moit-j.duckdns.org/)
-
----
-
-## Portfolio
-
-* [Notion Portfolio](https://app.notion.com/p/5caf92c39920834c9e1f0108acc9e4c0?source=copy_link)
-
----
-
-## Study
-
-학습 과정에서 진행한 실습과 프로젝트를 GitHub에 기록하고 있으며,
-기술 및 학습 내용을 Notion으로 정리하고 있습니다.
-
-향후 기존 GitHub Pages 형태로 정리했던 학습 자료를
-**Notion 기반의 기술 학습 페이지로 재구성할 예정입니다.**
-
+단순히 기능을 구현하는 데 그치지 않고  
+**사용자 화면부터 API, 서버, DB까지 이어지는 전체 흐름을 이해하고 개발합니다.**
 
 <br>
-<br>
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/dmdjsjdj"
-    width="600"
-  />
+
+<a href="https://app.notion.com/p/5caf92c39920834c9e1f0108acc9e4c0?source=copy_link">
+<img src="https://img.shields.io/badge/PORTFOLIO-687EFF?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
+
+<a href="https://github.com/dmdjsjdj/2026-AI-FULLSTACK-YJ">
+<img src="https://img.shields.io/badge/STUDY-80B3FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://dmdjsjdj.github.io/2026-AI-FULLSTACK-YJ/">
+<img src="https://img.shields.io/badge/WEB-98E4FF?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/>
+</a>
+
+<br>
+<br>
+
+</div>
+
+---
+
+## ABOUT ME
+
+**01. 흐름을 이해하는 개발**
+
+프론트엔드부터 백엔드, DB까지 연결되는 전체 서비스 흐름을 이해하고 구현합니다.
+
+**02. 문제를 구조적으로 해결**
+
+오류를 코드 하나의 문제가 아닌 데이터와 로직의 흐름으로 나누어 원인을 찾습니다.
+
+**03. 꼼꼼하게 개발**
+
+요구사항과 예외 상황을 확인하고 유지보수와 확장성을 고려합니다.
+
+**04. 소통하는 개발**
+
+구현 과정과 진행 상황을 공유하며 팀원과 함께 해결책을 찾아갑니다.
+
+---
+
+## TECH STACK
+
+### Backend
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white"/>
+
+### Frontend
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white"/>
+
+### Database & Infrastructure
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+### Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/STS4-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+---
+
+## PROJECTS
+
+### 01. MOIT
+
+**Make Our Interest Together**
+
+대학생 및 일반 사용자를 위한 모임 커뮤니티 플랫폼
+
+Spring Framework 기반 프로젝트에서 시작해  
+Spring Boot + React 구조까지 단계적으로 발전시켰습니다.
+
+**담당 파트 : 광고 기능**
+
+<a href="https://github.com/dmdjsjdj/2026-moit-projects">
+<img src="https://img.shields.io/badge/GitHub-687EFF?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://moit-j.duckdns.org/">
+<img src="https://img.shields.io/badge/Live-80B3FF?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br>
+
+> 앞으로 진행한 프로젝트를 이 영역에 계속 추가할 예정입니다.
+
+---
+
+## STUDY
+
+학습 과정에서 진행한 실습과 프로젝트를 기록하고 있습니다.
+
+현재 GitHub에 학습 과정과 실습 내용을 정리하고 있으며,  
+기존 GitHub Pages 형태의 자료는 **Notion 기반 학습 문서로 재구성할 예정입니다.**
+
+<br>
+
+<a href="https://github.com/dmdjsjdj/2026-AI-FULLSTACK-YJ">
+<img src="https://img.shields.io/badge/STUDY_GITHUB-80B3FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## PORTFOLIO
+
+<div align="center">
+
+<a href="https://app.notion.com/p/5caf92c39920834c9e1f0108acc9e4c0?source=copy_link">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=98E4FF&height=100&text=VIEW%20MY%20PORTFOLIO&fontSize=28&fontColor=ffffff"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/devxb/gitanimals">
+<img src="https://render.gitanimals.org/farms/dmdjsjdj" width="600"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=687EFF&height=100&section=footer"/>
+
+</div>
