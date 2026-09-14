@@ -9,6 +9,8 @@ Java · Spring Boot를 기반으로 백엔드를 개발하고 React를 활용해
 
 학습 과정에서 Spring 기반 프로젝트를 시작해 Spring Boot + React 구조로 발전시키며
 **MOIT 모임 플랫폼을 1차부터 3차까지 단계적으로 개발**했습니다.
+* [GitHub](https://github.com/dmdjsjdj/2026-AI-FULLSTACK-YJ)
+* [GitHub.io](https://dmdjsjdj.github.io/2026-AI-FULLSTACK-YJ/)
 
 ---
 
@@ -24,15 +26,13 @@ Spring Boot와 React를 적용한 3차 프로젝트까지 단계적으로 발전
 **MOIT v3에서는 광고 기능을 담당하여 광고 등록부터 관리자 승인, 결제, 노출, 통계까지 구현했습니다.**
 
 * [프로젝트 GitHub](https://github.com/dmdjsjdj/2026-moit-projects)
+* [프로젝트 배포](https://moit-j.duckdns.org/)
 
 ---
 
-## Links
+## Portfolio
 
-* [Portfolio](PORTFOLIO_URL)
-* [Study GitHub](https://github.com/dmdjsjdj/2026-AI-FULLSTACK-YJ)
-* [Notion](https://app.notion.com/p/5caf92c39920834c9e1f0108acc9e4c0?source=copy_link)
-* [Project GitHub](https://github.com/dmdjsjdj/2026-moit-projects)
+* [Notion Portfolio](https://app.notion.com/p/5caf92c39920834c9e1f0108acc9e4c0?source=copy_link)
 
 ---
 
